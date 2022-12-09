@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Regression Testing</description>
+   <name>UC 01 - Change Order Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68cb6754-366c-4d53-9ac3-a8f52eae487b</testCaseGuid>
+</TestCaseEntity>
